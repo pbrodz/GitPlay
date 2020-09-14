@@ -1,1 +1,2 @@
 This is a new file from secondBranch.
+FeatureBranch adds a line.
