@@ -1,0 +1,3 @@
+this is a new file that we will merge
+let's add one additional line and merge that in
+this line we will rebase - remember rebase does a whole bunch of new branches

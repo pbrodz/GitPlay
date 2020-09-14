@@ -1,2 +1,3 @@
 This is a file.
 So I just added another line.
+Here is a merged branch.
