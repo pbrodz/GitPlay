@@ -1,2 +1,4 @@
 this is a new file
 second line
+
+myCoolBranch has added to this
